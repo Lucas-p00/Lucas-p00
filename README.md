@@ -7,7 +7,7 @@
 
 
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,anaconda,flutter,cpp,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,cpp,arduino,raspberrypi,flutter,html,css,js)](https://skillicons.dev)
 
 &nbsp;
 <div align="left">
