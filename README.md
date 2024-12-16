@@ -2,8 +2,8 @@
 
 ### About me
 
-- 🎓 Computer Engineering Student at UNILAB.
-- 💻 Areas of interest: Automation, Embedded Systems, IoT, Data Science, Machine Learning and Computer Vision
+- 🎓 Computer Engineer.
+- 💻 Areas of interest: Automation, Embedded Systems, IoT, Data Science, Machine Learning and Computer Vision.
 
 
 ### Technologies
