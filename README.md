@@ -46,4 +46,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspinheiro00/)
 [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.pinheiroo.eng@gmail.com)
 
+
+### 📈 GitHub Activity  
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-p00&theme=dark)  
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6543E4&height=120&section=footer"/>
